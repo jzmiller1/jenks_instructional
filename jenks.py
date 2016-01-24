@@ -6,7 +6,7 @@ numerical_data_array = [(3, 'Washington'),
                         (4, 'Wyoming'),
                         (5, 'Minnisota'),
                         (5, 'Nebraska'),
-                        (5, 'Idaho'),
+                        (6, 'Idaho'),
                         (6, 'South Dakota'),
                         (7, 'Colorado'),
                         (7, 'Kansas'),
@@ -15,8 +15,8 @@ numerical_data_array = [(3, 'Washington'),
                         (8, 'Wisconsin'),
                         (11, 'Indiana'),
                         (12, 'Ohio'),
-                        (12. 'Oklahoma'),
-                        (12, 'New Hampshire'),
+                        (12, 'Oklahoma'),
+                        (13, 'New Hampshire'),
                         (13, 'Pennslyvania'),
                         (13, 'Vermont'),
                         (14, 'Maine'),
@@ -42,9 +42,10 @@ numerical_data_array = [(3, 'Washington'),
                         (37, 'Arkansas'),
                         (40, 'Georgia'),
                         (42, 'Alabama'),
-                        (49, 'Louisiana'),
+                        (44, 'Louisiana'),
+                        (49, 'Mississippi'),
                         (50, 'South Carolina')
-                       ]
+                        ]
 
 
 
